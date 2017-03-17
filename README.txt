@@ -1,4 +1,3 @@
-** EN **
 2017 ACM Master article template, consolidates 8 individual ACM journal and ACM Proceedings.
 
 ===================================================
